@@ -1,0 +1,111 @@
+{
+  "typeId": "support-connect",
+  "answers": [
+    {
+      "questionId": "Q01",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q02",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q03",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q04",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q05",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q06",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q07",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q08",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q09",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q10",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q11",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q12",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q13",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q14",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q15",
+      "optionKeys": [
+        "Contribution",
+        "Connection",
+        "Security"
+      ]
+    },
+    {
+      "questionId": "Q16",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q17",
+      "optionKeys": [
+        "pressure"
+      ]
+    },
+    {
+      "questionId": "Q18",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q19",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q20",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q21",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q22",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q23",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q24",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q25",
+      "optionKey": "A"
+    }
+  ]
+}
