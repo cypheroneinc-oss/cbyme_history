@@ -1,1 +1,241 @@
-
+[
+  {
+    "id": "Q01",
+    "prompt": "何かを始めるとき、どっちっぽい？",
+    "type": "single",
+    "options": [
+      { "key": "A", "label": "とりあえずやってみて、あとで直す", "scores": { "workstyle.speed": 1, "mbti.P": 1 } },
+      { "key": "B", "label": "まず全体を考えてから動く", "scores": { "workstyle.structure": 1, "mbti.J": 1 } }
+    ]
+  },
+  {
+    "id": "Q02",
+    "prompt": "決めるときにより近いのは？",
+    "type": "single",
+    "options": [
+      { "key": "A", "label": "なんとなくの直感やノリ", "scores": { "cognition.intuition": 1, "mbti.F": 1 } },
+      { "key": "B", "label": "理由や数字を見て決める", "scores": { "cognition.logic": 1, "mbti.T": 1 } }
+    ]
+  },
+  {
+    "id": "Q03",
+    "prompt": "やるときに大事なのは？",
+    "type": "single",
+    "options": [
+      { "key": "A", "label": "早く終わらせること", "scores": { "workstyle.speed": 1 } },
+      { "key": "B", "label": "ていねいにやること", "scores": { "workstyle.quality": 1 } }
+    ]
+  },
+  {
+    "id": "Q04",
+    "prompt": "やりやすいのは？",
+    "type": "single",
+    "options": [
+      { "key": "A", "label": "予定を立てて順番にやる", "scores": { "workstyle.structure": 1, "mbti.J": 1 } },
+      { "key": "B", "label": "その場でやり方を決める", "scores": { "workstyle.improvise": 1, "mbti.P": 1 } }
+    ]
+  },
+  {
+    "id": "Q05",
+    "prompt": "新しい課題に向き合うときは？",
+    "type": "single",
+    "options": [
+      { "key": "A", "label": "思いついたアイデアを出す", "scores": { "cognition.intuition": 1 } },
+      { "key": "B", "label": "細かく分けて整理する", "scores": { "cognition.logic": 1 } }
+    ]
+  },
+  {
+    "id": "Q06",
+    "prompt": "どっちのやり方が近い？",
+    "type": "single",
+    "options": [
+      { "key": "A", "label": "いくつも同時にやる", "scores": { "attention.multitask": 1 } },
+      { "key": "B", "label": "一つに集中してやる", "scores": { "attention.single_task": 1 } }
+    ]
+  },
+  {
+    "id": "Q07",
+    "prompt": "どんな場所で集中できる？",
+    "type": "single",
+    "options": [
+      { "key": "A", "label": "しずかな場所", "scores": { "env.silent": 1 } },
+      { "key": "B", "label": "少しにぎやかな場所", "scores": { "env.active": 1 } }
+    ]
+  },
+  {
+    "id": "Q08",
+    "prompt": "一緒にいて心地いいチームは？",
+    "type": "single",
+    "options": [
+      { "key": "A", "label": "本音をズバッと言えるチーム", "scores": { "team.direct": 1 } },
+      { "key": "B", "label": "まったりした空気のチーム", "scores": { "team.harmony": 1 } }
+    ]
+  },
+  {
+    "id": "Q09",
+    "prompt": "チームで自分が多いのは？",
+    "type": "single",
+    "options": [
+      { "key": "A", "label": "みんなを引っぱるリーダー役", "scores": { "role.lead": 1 } },
+      { "key": "B", "label": "支えてサポートする役", "scores": { "role.support": 1 } }
+    ]
+  },
+  {
+    "id": "Q10",
+    "prompt": "どっちがつらい？",
+    "type": "single",
+    "options": [
+      { "key": "A", "label": "細かく口出しされ続ける", "scores": { "safety.autonomy_need": 1, "ng.pressure": 1 } },
+      { "key": "B", "label": "全部まかされて放っておかれる", "scores": { "safety.guidance_need": 1 } }
+    ]
+  },
+  {
+    "id": "Q11",
+    "prompt": "気持ちが動いたときは？",
+    "type": "single",
+    "options": [
+      { "key": "A", "label": "すぐ顔や言葉に出る", "scores": { "safety.extraversion": 1 } },
+      { "key": "B", "label": "表にはあまり出さない", "scores": { "safety.introversion": 1 } }
+    ]
+  },
+  {
+    "id": "Q12",
+    "prompt": "初めての人と話すときは？",
+    "type": "single",
+    "options": [
+      { "key": "A", "label": "自然に会話を広げられる", "scores": { "safety.extraversion": 1 } },
+      { "key": "B", "label": "慣れるまでちょっと時間がかかる", "scores": { "safety.introversion": 1 } }
+    ]
+  },
+  {
+    "id": "Q13",
+    "prompt": "場で大事にするのは？",
+    "type": "single",
+    "options": [
+      { "key": "A", "label": "空気を大事にすること", "scores": { "safety.agreeableness": 1 } },
+      { "key": "B", "label": "正しいことをはっきり言うこと", "scores": { "safety.low_agreeableness": 1 } }
+    ]
+  },
+  {
+    "id": "Q14",
+    "prompt": "連絡の返し方は？",
+    "type": "single",
+    "options": [
+      { "key": "A", "label": "すぐ返す", "scores": { "response.fast": 1 } },
+      { "key": "B", "label": "まとめてあとで返す", "scores": { "response.slow": 1 } }
+    ]
+  },
+  {
+    "id": "Q15",
+    "prompt": "「やる気出る！」ってなるのは？（3つまで）",
+    "type": "multi",
+    "maxSelect": 3,
+    "options": [
+      { "key": "Achiever", "label": "テストや大会でいい結果が出たとき", "scores": { "motivation.achiever": 2 } },
+      { "key": "Approval", "label": "友達や先生にほめられたとき", "scores": { "motivation.approval": 2 } },
+      { "key": "Contribution", "label": "人の役に立ったとき", "scores": { "motivation.contribution": 2 } },
+      { "key": "Security", "label": "安心できる場所にいるとき", "scores": { "motivation.security": 2 } },
+      { "key": "Curiosity", "label": "新しいことを知ったとき", "scores": { "motivation.curiosity": 2 } },
+      { "key": "Autonomy", "label": "自分のやり方でできるとき", "scores": { "motivation.autonomy": 2 } },
+      { "key": "Connection", "label": "仲間と一緒にやっているとき", "scores": { "motivation.connection": 2 } },
+      { "key": "Growth", "label": "できなかったことができるようになったとき", "scores": { "motivation.growth": 2 } }
+    ]
+  },
+  {
+    "id": "Q16",
+    "prompt": "今の自分が一番やる気になるのは？",
+    "type": "single",
+    "options": [
+      { "key": "A", "label": "結果が出たりほめられたとき", "scores": { "motivation.achiever": 1, "motivation.approval": 1 } },
+      { "key": "B", "label": "安心できる場所や仲間がいるとき", "scores": { "motivation.security": 1, "motivation.connection": 1 } },
+      { "key": "C", "label": "新しいことを知ったり成長を感じたとき", "scores": { "motivation.curiosity": 1, "motivation.growth": 1 } },
+      { "key": "D", "label": "自分のやり方で自由にできるとき", "scores": { "motivation.autonomy": 2 } }
+    ]
+  },
+  {
+    "id": "Q17",
+    "prompt": "「これはきつい…」と思うのは？（2つまで）",
+    "type": "multi",
+    "maxSelect": 2,
+    "options": [
+      { "key": "pressure", "label": "強くせめられるとき", "scores": { "ng.pressure": 2 } },
+      { "key": "fast_response", "label": "すぐ返事を求められるとき", "scores": { "ng.fast_response": 2 } },
+      { "key": "read_air", "label": "空気を読めと強制されるとき", "scores": { "ng.read_air": 2 } },
+      { "key": "silent_alone", "label": "しずかで一人きりの作業ばかり", "scores": { "ng.silent_alone": 2 } },
+      { "key": "no_autonomy", "label": "細かい指示ばかりで自由がないとき", "scores": { "ng.no_autonomy": 2 } },
+      { "key": "no_change", "label": "毎日同じことのくり返し", "scores": { "ng.no_change": 2 } }
+    ]
+  },
+  {
+    "id": "Q18",
+    "prompt": "仕事や勉強を任されるなら？",
+    "type": "single",
+    "options": [
+      { "key": "A", "label": "ゴールだけ言われてあとは任されたい", "scores": { "autonomy.high": 1 } },
+      { "key": "B", "label": "やり方も一緒に考えてほしい", "scores": { "autonomy.low": 1 } }
+    ]
+  },
+  {
+    "id": "Q19",
+    "prompt": "変化があるときどう思う？",
+    "type": "single",
+    "options": [
+      { "key": "A", "label": "変化があるとワクワクする", "scores": { "change.seek": 1 } },
+      { "key": "B", "label": "変化より予想できるほうが安心", "scores": { "change.avoid": 1 } }
+    ]
+  },
+  {
+    "id": "Q20",
+    "prompt": "居心地がいい空気は？",
+    "type": "single",
+    "options": [
+      { "key": "A", "label": "にぎやかで盛り上がってるとき", "scores": { "affect.high_energy": 1 } },
+      { "key": "B", "label": "落ち着いて静かに熱いとき", "scores": { "affect.calm_hot": 1 } }
+    ]
+  },
+  {
+    "id": "Q21",
+    "prompt": "会話するときのスタイルは？",
+    "type": "single",
+    "options": [
+      { "key": "A", "label": "テンポよくツッコミ多め", "scores": { "affect.banter": 1 } },
+      { "key": "B", "label": "ゆっくりていねいに話す", "scores": { "affect.deliberate": 1 } }
+    ]
+  },
+  {
+    "id": "Q22",
+    "prompt": "ノリが合うのは？",
+    "type": "single",
+    "options": [
+      { "key": "A", "label": "自然体でまったりしてるとき", "scores": { "affect.natural": 1 } },
+      { "key": "B", "label": "冷静でクールに考えてるとき", "scores": { "affect.logical_cool": 1 } }
+    ]
+  },
+  {
+    "id": "Q23",
+    "prompt": "意見がちがったとき、どうする？",
+    "type": "single",
+    "options": [
+      { "key": "A", "label": "まず気持ちを合わせる", "scores": { "affect.empathy_sync": 1 } },
+      { "key": "B", "label": "まず考えを整理する", "scores": { "affect.logic_sync": 1 } }
+    ]
+  },
+  {
+    "id": "Q24",
+    "prompt": "将来に近いのはどっち？",
+    "type": "single",
+    "options": [
+      { "key": "A", "label": "一つのことをとことんやる", "scores": { "career.specialist": 1 } },
+      { "key": "B", "label": "いろんなことにチャレンジする", "scores": { "career.generalist": 1 } }
+    ]
+  },
+  {
+    "id": "Q25",
+    "prompt": "自分が欲しい成果は？",
+    "type": "single",
+    "options": [
+      { "key": "A", "label": "すぐ分かる結果が出ること", "scores": { "impact.deliver_results": 1 } },
+      { "key": "B", "label": "長く役立つ仕組みをつくること", "scores": { "impact.build_systems": 1 } }
+    ]
+  }
+]
