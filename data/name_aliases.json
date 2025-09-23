@@ -1,0 +1,66 @@
+{
+  "織田信長": {
+    "typeId": "challenge-speed",
+    "aliases": ["織田信長", "信長", "おだのぶなが", "オダノブナガ", "oda nobunaga", "nobunaga", "oda"]
+  },
+  "徳川家康": {
+    "typeId": "challenge-structure",
+    "aliases": ["徳川家康", "家康", "とくがわいえやす", "トクガワイエヤス", "tokugawa ieyasu", "ieyasu", "tokugawa"]
+  },
+  "本田宗一郎": {
+    "typeId": "challenge-explore",
+    "aliases": ["本田宗一郎", "宗一郎", "ほんだそういちろう", "ホンダソウイチロウ", "soichiro honda", "honda", "soichiro"]
+  },
+  "坂本龍馬": {
+    "typeId": "challenge-connect",
+    "aliases": ["坂本龍馬", "龍馬", "さかもとりょうま", "サカモトリョウマ", "りょうま", "リョウマ", "ryoma sakamoto", "ryoma", "sakamoto"]
+  },
+  "手塚治虫": {
+    "typeId": "create-speed",
+    "aliases": ["手塚治虫", "治虫", "てづかおさむ", "テヅカオサム", "tezuka osamu", "tezuka", "osamu"]
+  },
+  "津田梅子": {
+    "typeId": "create-structure",
+    "aliases": ["津田梅子", "梅子", "つだうめこ", "ツダウメコ", "umeko tsuda", "tsuda", "umeko"]
+  },
+  "紫式部": {
+    "typeId": "create-explore",
+    "aliases": ["紫式部", "式部", "むらさきしきぶ", "ムラサキシキブ", "murasaki shikibu", "murasaki", "shikibu"]
+  },
+  "与謝野晶子": {
+    "typeId": "create-connect",
+    "aliases": ["与謝野晶子", "晶子", "よさのあきこ", "ヨサノアキコ", "yosano akiko", "yosano", "akiko"]
+  },
+  "二宮尊徳": {
+    "typeId": "support-speed",
+    "aliases": ["二宮尊徳", "二宮金次郎", "尊徳", "にのみやそんとく", "ニノミヤソントク", "にのみやきんじろう", "ニノミヤキンジロウ", "ninomiya", "sontoku"]
+  },
+  "渋沢栄一": {
+    "typeId": "support-structure",
+    "aliases": ["渋沢栄一", "栄一", "しぶさわえいいち", "シブサワエイイチ", "shibusawa eiichi", "shibusawa", "eiichi"]
+  },
+  "新島八重": {
+    "typeId": "support-explore",
+    "aliases": ["新島八重", "八重", "にいじまやえ", "ニイジマヤエ", "niijima yae", "yae", "niijima"]
+  },
+  "ナイチンゲール": {
+    "typeId": "support-connect",
+    "aliases": ["ナイチンゲール", "ないちんげーる", "ないちんげる", "florence nightingale", "nightingale", "florence"]
+  },
+  "豊田佐吉": {
+    "typeId": "strategy-speed",
+    "aliases": ["豊田佐吉", "佐吉", "とよださきち", "トヨダサキチ", "sakichi toyoda", "toyoda", "sakichi"]
+  },
+  "徳川吉宗": {
+    "typeId": "strategy-structure",
+    "aliases": ["徳川吉宗", "吉宗", "とくがわよしむね", "トクガワヨシムネ", "tokugawa yoshimune", "yoshimune", "tokugawa"]
+  },
+  "伊能忠敬": {
+    "typeId": "strategy-explore",
+    "aliases": ["伊能忠敬", "忠敬", "いのうただたか", "イノウタダタカ", "ino tadataka", "tadataka", "ino"]
+  },
+  "黒田官兵衛": {
+    "typeId": "strategy-connect",
+    "aliases": ["黒田官兵衛", "官兵衛", "くろだかんべえ", "クロダカンベエ", "kuroda kanbee", "kanbee", "kuroda"]
+  }
+}

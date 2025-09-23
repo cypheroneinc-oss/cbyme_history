@@ -1,0 +1,112 @@
+{
+  "typeId": "strategy-structure",
+  "answers": [
+    {
+      "questionId": "Q01",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q02",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q03",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q04",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q05",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q06",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q07",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q08",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q09",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q10",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q11",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q12",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q13",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q14",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q15",
+      "optionKeys": [
+        "Approval",
+        "Security",
+        "Growth"
+      ]
+    },
+    {
+      "questionId": "Q16",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q17",
+      "optionKeys": [
+        "fast_response",
+        "pressure"
+      ]
+    },
+    {
+      "questionId": "Q18",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q19",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q20",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q21",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q22",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q23",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q24",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q25",
+      "optionKey": "B"
+    }
+  ]
+}

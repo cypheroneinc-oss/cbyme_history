@@ -1,0 +1,112 @@
+{
+  "typeId": "create-explore",
+  "answers": [
+    {
+      "questionId": "Q01",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q02",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q03",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q04",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q05",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q06",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q07",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q08",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q09",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q10",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q11",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q12",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q13",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q14",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q15",
+      "optionKeys": [
+        "Curiosity",
+        "Autonomy",
+        "Growth"
+      ]
+    },
+    {
+      "questionId": "Q16",
+      "optionKey": "C"
+    },
+    {
+      "questionId": "Q17",
+      "optionKeys": [
+        "no_change",
+        "fast_response"
+      ]
+    },
+    {
+      "questionId": "Q18",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q19",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q20",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q21",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q22",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q23",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q24",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q25",
+      "optionKey": "B"
+    }
+  ]
+}
