@@ -1,0 +1,111 @@
+{
+  "typeId": "challenge-speed",
+  "answers": [
+    {
+      "questionId": "Q01",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q02",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q03",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q04",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q05",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q06",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q07",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q08",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q09",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q10",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q11",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q12",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q13",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q14",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q15",
+      "optionKeys": [
+        "Achiever",
+        "Autonomy",
+        "Growth"
+      ]
+    },
+    {
+      "questionId": "Q16",
+      "optionKey": "D"
+    },
+    {
+      "questionId": "Q17",
+      "optionKeys": [
+        "silent_alone"
+      ]
+    },
+    {
+      "questionId": "Q18",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q19",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q20",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q21",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q22",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q23",
+      "optionKey": "B"
+    },
+    {
+      "questionId": "Q24",
+      "optionKey": "A"
+    },
+    {
+      "questionId": "Q25",
+      "optionKey": "A"
+    }
+  ]
+}
